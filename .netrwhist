@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/ybdai/.config/nvim/lua/ybdai/plugins'
+let g:netrw_dirhist_2='/home/ybdai/.local/share/nvim/site/pack/packer/start/packer.nvim'
+let g:netrw_dirhist_1='/home/ybdai/.config/nvim/lua/ybdai/plugins'
